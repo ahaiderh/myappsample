@@ -1,0 +1,1 @@
+consoul.log('hello');
